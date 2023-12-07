@@ -9,3 +9,6 @@ ________________________________________________________________________________
 *History Page*
 ![image](https://github.com/AGamra/FinalProjectCss/assets/95383719/6ed3413f-74c3-457d-a9f9-cfa6033e8274)
 
+
+#*Note*
+If the code does not appear, you can copy the replit link and paste it into any browser, then press Enter to load the page and see the code. https://replit.com/@gaamra12/FinalProjectCss#CSS3-Final-Project-master/css (replit) 
